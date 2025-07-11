@@ -1,4 +1,4 @@
-# 多色3D打印机换色方案
+# HelixSnail 多色3D打印机换色方案
 
 ## 1. 系统原理
 采用多电机驱动单挤出机架构实现多色打印功能:ml-citation{ref="1,3" data="citationList"}，核心原理包括：
